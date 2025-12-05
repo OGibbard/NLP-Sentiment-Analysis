@@ -1,0 +1,9 @@
+Nouns	                    NN, NNS, NNP, NNPS
+Verbs	                    VB, VBD, VBG, VBN, VBP, VBZ
+Adjectives	                JJ, JJR, JJS
+Adverbs	                    RB, RBR, RBS
+Pronouns	                PRP, PRP$, WP, WP$
+Determiners / Articles	    DT, WDT, PDT, PRP$
+Prepositions	            IN, TO
+Conjunctions	            CC
+Particles /  Others	        RP, EX, UH, SYM
