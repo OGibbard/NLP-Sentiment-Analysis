@@ -1,0 +1,11 @@
+name: nlp_coursework
+channels:
+  - defaults
+dependencies:
+  - python=3.11.9
+  - numpy
+  - nltk
+  - scikit-learn
+  - matplotlib
+  - notebook
+  - pip
